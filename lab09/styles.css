@@ -1,0 +1,11 @@
+h1{color: #1ed4b3;}
+h2{color: rgb(90, 54, 181);}
+body{color: #b7cb21;}
+p{color: #31635b;}
+a {color: #c22c3bbf}
+  a:hover {color:#0f0}
+h1{background-color: rgb(161, 18, 161);}
+nav{background-color: #d4e1df;}
+nav a:hover {background-color: rgba(29, 117, 184, 0);}
+nav {padding: 10px}
+nav {margin-bottom: 30px}
